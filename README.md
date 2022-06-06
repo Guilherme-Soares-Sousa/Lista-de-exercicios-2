@@ -15,7 +15,7 @@ Os exercícios propostos tinham como intuito a utilização do que aprendemos at
 9. Dado um país A, com 5.000.000 de habitantes e uma taxa de natalidade de 3% ao ano, eum paísB com 7.000.000 de habitantes e uma taxa de natalidade de 2% ao ano,escrevaum programa, que imprimao tempo necessário para que a população do país A ultrapasse a população do país B. [(code)](https://github.com/Guilherme-Soares-Sousa/Lista-de-exercicios-2/blob/master/src/exercicio53.java)
 10. O valor aproximado do número π pode ser calculado usando-se a série
 $$
-S = 1 - \frac{1}{3^3}\ + \frac{1}{5^3}\ - \frac{1}{7^3}\ + \frac{1}{7^3}\ ...
+S = 1 - \frac{1}{3^{3}} + \frac{1}{5^{3}} - \frac{1}{7^{3}} + \frac{1}{7^{3}} ...
 $$
 faça um programa que calcule e imprima o valor de π usando os N primeiros termos da série(N sendo informado durante a execução do algoritmo). [(code)](https://github.com/Guilherme-Soares-Sousa/Lista-de-exercicios-2/blob/master/src/exercicio58.java)
 11. Faça um programa em C que leia um array de 20 inteiros e imprima o menor e o maior valor dentre os elementos do array, bem como suas respectivas posições. [(code)](https://github.com/Guilherme-Soares-Sousa/Lista-de-exercicios-2/blob/master/src/exercicio65.java)

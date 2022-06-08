@@ -1,4 +1,4 @@
-# Breve descrição do pojeto
+# Breve descrição do projeto
 Esse projeto contém os exercícios realizados da lista 2 de ALP (Algoritmo e Lógica de Programação).
 Foram sorteadas as linguagens para os grupos formados em sala, e a que sorteamos foi `Java`.
 Os exercícios propostos tinham como intuito a utilização do que aprendemos até então, isso sendo do mais "básico" como: como impressão e leitura de dados (Prints, Inputs); até algo mais "avançado" na matéria nesse primeiro semestre: laços de repetição, estruturas de condição, vetores e matrizes (While, For, ForEach, If Else).
